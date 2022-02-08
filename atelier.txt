@@ -1,3 +1,4 @@
+COUCOU BONSOIR BONNE ANNEEE
 Salut Bastien tu t'en sort ? 
 n'oublie pas on modifie, ensuite tu add puis commit
 puis pull pour vérifier qu'il y a pas eu de modif entre temps et ensuite tu push
@@ -5,3 +6,4 @@ puis pull pour vérifier qu'il y a pas eu de modif entre temps et ensuite tu pus
 
 
 blabla blablalbabla bientot 17h c'est cool 
+Alors comme ca tu te prends pour un prof toi, va falloir te calmer 
